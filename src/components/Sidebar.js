@@ -73,6 +73,15 @@ export default function Sidebar() {
                 <span>Game Design</span>
               </a>
             </li>
+            <li>
+              <a
+                href="https://csfirst.withgoogle.com/c/cs-first/en/game-design/overview.html"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span>MFM Dojo Source Code</span>
+              </a>
+            </li>
           </ul>
         </nav>
       </div>
